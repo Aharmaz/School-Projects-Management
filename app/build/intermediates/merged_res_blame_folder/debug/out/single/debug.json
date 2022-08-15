@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_ajouter_sujets_chef_filiere_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_ajouter_sujets_chef_filiere_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_description.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-v24\\description.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ajouter_sujet_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_ajouter_sujet_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ajouter_grp_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_ajouter_grp_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_affectations_finales_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_affectations_finales_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_bottom_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-ldpi\\bottom_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_espace_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_espace_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nombre.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-v24\\nombre.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_affectations_finales_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_affectations_finales_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pour_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\activity_pour_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_changer_password_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_changer_password_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_layout_rounded_dark_black.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-ldpi\\layout_rounded_dark_black.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_check.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_changer_password_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_changer_password_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_theme.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\activity_update_theme.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_student.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_student.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_top_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-hdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_affectations_finales_chef_filiere_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_affectations_finales_chef_filiere_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_changer_password_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_changer_password_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_suivi.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_suivi.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_item.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer_menu_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\menu\\drawer_menu_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_top_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_sujets_prop_etudiant_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_sujets_prop_etudiant_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pour_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\activity_pour_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_typing_area_bg.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\typing_area_bg.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_recycle_choisir.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_recycle_choisir.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sujets_prop.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_sujets_prop.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bottom_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xhdpi\\bottom_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fragement__ajout__sujet.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_fragement__ajout__sujet.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_affectations_finales_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_affectations_finales_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_affectations_finales_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_affectations_finales_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_top_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xxxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_espace_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_espace_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_recycle_etudiant_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_recycle_etudiant_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bottom_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_choisir_sujets.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_choisir_sujets.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_layout_rounded_white.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-ldpi\\layout_rounded_white.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\menu_options_menu_theme.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\menu\\options_menu_theme.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\nav_header_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_suivi_sujets_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_suivi_sujets_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_espace_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_espace_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\nav_header_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_recycle.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_recycle.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bottom_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-mdpi\\bottom_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_layout_rounded_white.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\layout_rounded_white.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_options.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\options.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background_button.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-v24\\background_button.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ajouter_grp.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_ajouter_grp.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sujets_props_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_sujets_props_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_layout_rounded_dark_black.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\layout_rounded_dark_black.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_test_.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_test_.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_changer_mot_de_passe.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_changer_mot_de_passe.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backgrounf_border.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-v24\\backgrounf_border.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_remove.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\remove.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_espace_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_espace_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sujets_demandes_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_sujets_demandes_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_espace_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_espace_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pour_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\activity_pour_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sujets_props_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_sujets_props_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_encadrant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-v24\\encadrant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\nav_header_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_choisir_sujets_etudiant_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_choisir_sujets_etudiant_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bottom_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-hdpi\\bottom_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_sujets_props_chef_filiere_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_sujets_props_chef_filiere_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_top_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_clr.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_clr.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_liste_sujets_demandes_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_liste_sujets_demandes_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ajouter_sujets_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_ajouter_sujets_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_top_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-mdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_title.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-v24\\title.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_item_choisir.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\item_choisir.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_affectations_prof_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_affectations_prof_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_choisir_sujets_etudiant.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_choisir_sujets_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bottom_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-xxxhdpi\\bottom_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_demandes_prof_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_demandes_prof_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_top_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-ldpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_deconnexion.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_deconnexion.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer_menu_chef_filiere.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\menu\\drawer_menu_chef_filiere.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_sujets_prop_prof_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_sujets_prop_prof_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_forgot_password.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_espace_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\ic_espace_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_suivi_etudiant_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_suivi_etudiant_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer_menu_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\menu\\drawer_menu_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_ajouter_grp_etudiant_background.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_ajouter_grp_etudiant_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sujets_props_prof.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\layout\\fragment_sujets_props_prof.xml"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Projects\\PFA_Management\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Projects\\PFA_Management\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    }
+]

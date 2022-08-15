@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment_recycle_etudiant_prof">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_etudiant_prof"
+        android:layout_width="match_parent"
+        android:layout_height="640dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/empty"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/select"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:backgroundTint="#1E90FF"
+            android:layout_width="395dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="650dp"
+            android:background="@drawable/btn_ajouter_grp_etudiant_background"
+            android:text="Séléctionner les sujets"
+            android:textColor="#0277BD" />
+    </LinearLayout>
+</FrameLayout>

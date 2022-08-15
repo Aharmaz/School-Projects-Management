@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_espace_etudiant"
+            android:icon="@drawable/ic_espace_etudiant"
+            android:title="Espace étudiant"/>
+
+        <item android:id="@+id/nav_sujets_props_etudiant"
+            android:icon="@drawable/ic_sujets_prop"
+            android:title="Sujets Proposées"/>
+
+        <item android:id="@+id/nav_suivi_etudiant"
+            android:icon="@drawable/ic_suivi"
+            android:title="Suivi des sujets"/>
+
+
+        <item android:id="@+id/nav_choisir_sujets_etudiant"
+            android:icon="@drawable/ic_choisir_sujets"
+            android:title="Choisissez les sujets"/>
+
+    </group>
+
+    <item android:title="Utilitaire">
+        <menu>
+            <item android:id="@+id/nav_deconnexion"
+                android:icon="@drawable/ic_deconnexion"
+                android:title="Se déconnecter"/>
+        </menu>
+    </item>
+
+</menu>

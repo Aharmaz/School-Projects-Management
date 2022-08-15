@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item android:id="@+id/nav_espace_prof"
+            android:icon="@drawable/ic_espace_prof"
+            android:title="Espace professeur"/>
+
+
+
+        <item android:id="@+id/nav_liste_sujets_demandes_prof"
+            android:icon="@drawable/ic_liste_sujets_demandes_prof"
+            android:title="Sujets demandés"/>
+
+        <item android:id="@+id/nav_affectations_finales_prof"
+            android:icon="@drawable/ic_affectations_finales_prof"
+            android:title="Affectations finales"/>
+
+
+
+        <item android:id="@+id/nav_sujets_prop_prof"
+            android:icon="@drawable/ic_changer_mot_de_passe"
+            android:title="Sujets proposés"/>
+
+
+
+    </group>
+
+    <item android:title="Utilitaire">
+        <menu>
+            <item android:id="@+id/nav_deconnexion_prof"
+                android:icon="@drawable/ic_deconnexion"
+                android:title="Se déconnecter"/>
+        </menu>
+    </item>
+
+</menu>

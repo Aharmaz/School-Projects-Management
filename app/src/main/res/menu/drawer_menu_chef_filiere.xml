@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_espace_chef_filiere"
+            android:icon="@drawable/ic_espace_chef_filiere"
+            android:title="Espace chef de filiere"/>
+
+
+        <item android:id="@+id/nav_ajouter_sujet_chef_filiere"
+            android:icon="@drawable/ic_ajouter_sujet_chef_filiere"
+            android:title="Ajouter des sujets"/>
+
+        <item android:id="@+id/nav_sujets_prop_chef_filiere"
+            android:icon="@drawable/ic_sujets_prop"
+            android:title="Sujets Proposés"/>
+
+
+
+        <item android:id="@+id/nav_affectations_finales_chef_filiere"
+            android:icon="@drawable/ic_affectations_finales_chef_filiere"
+            android:title="Affectations finales"/>
+
+    </group>
+
+    <item android:title="Utilitaire">
+        <menu>
+            <item android:id="@+id/nav_deconnexion_chef_filiere"
+                android:icon="@drawable/ic_deconnexion"
+                android:title="Se déconnecter"/>
+        </menu>
+    </item>
+
+</menu>

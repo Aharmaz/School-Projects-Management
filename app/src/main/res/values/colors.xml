@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorButtonSujetsPropEtudiantStart">#7158e2</color>
+    <color name="colorButtonSujetsPropEtudiantEnd">#7d5fff</color>
+    <color name="colorButtonSuiviEtudiantStart">#c56cf0</color>
+    <color name="colorButtonSuiviEtudiantEnd">#cd84f1</color>
+    <color name="colorButtonChoisirSujetsEtudiantStart">#ffb8b8</color>
+    <color name="colorButtonChoisirSujetsEtudiantEnd">#ffcccc</color>
+
+    <color name="colorButtonSujetsPropProfStart">#7158e2</color>
+    <color name="colorButtonSujetsPropProfEnd">#7d5fff</color>
+    <color name="colorButtonDemandesProfStart">#c56cf0</color>
+    <color name="colorButtonDemandesProfEnd">#c56cf0</color>
+    <color name="colorButtonAffectationsProfStart">#ffb8b8</color>
+    <color name="colorButtonAffectationsProfEnd">#ffcccc</color>
+
+    <color name="colorButtonAjouterSujetChefFiliereStart">#c56cf0</color>
+    <color name="colorButtonAjouterSujetChefFiliereEnd">#c56cf0</color>
+    <color name="colorButtonSujetsPropChefFiliereStart">#7158e2</color>
+    <color name="colorButtonSujetsPropChefFiliereEnd">#7d5fff</color>
+    <color name="colorButtonAffectationsFinalesChefFiliereStart">#ffb8b8</color>
+    <color name="colorButtonAffectationsFinalesChefFiliereEnd">#ffcccc</color>
+
+    <color name="colorCard">#B9E1EA</color>
+
+
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorAccent">#10CEFF</color>
+    <color name="colorTitle">#003CBE</color>
+</resources>
